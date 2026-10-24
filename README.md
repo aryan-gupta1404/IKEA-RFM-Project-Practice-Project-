@@ -1,5 +1,29 @@
 # IKEA-RFM-Project-Practice-Project-
-chnologies
+Tools & Technologies: MySQL Workbench · Python · Pandas · Power BI · DAX
+
+## Project Overview
+
+This project explores customer purchasing behaviour, customer segmentation, and potential churn through an IKEA Gifting customer analytics business case.
+
+The analysis uses the Online Retail II dataset, which contains historical retail transactions from a UK-based online retailer. The dataset is used to explore how transactional data can support customer analytics and retention-related decisions within the proposed business scenario.
+
+The project brings together SQL, Python, and Power BI to demonstrate an end-to-end data analytics workflow, from data preparation to customer-level analysis and interactive visualization.
+
+Note: IKEA Gifting is the business case used for this project. The transaction data comes from the Online Retail II dataset and is not actual IKEA customer data.
+
+Business Objectives
+
+Analyze customer purchasing behaviour and transaction patterns.
+
+Segment customers based on Recency, Frequency, and Monetary value (RFM).
+
+Identify potentially inactive customers using a 90-day inactivity threshold.
+
+Understand customer value and purchasing patterns.
+
+Present customer analytics through an interactive Power BI dashboard.
+
+Tools & Technologies
 
 Tool
 
