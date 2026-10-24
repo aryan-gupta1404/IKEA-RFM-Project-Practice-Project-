@@ -11,19 +11,19 @@ The project brings together SQL, Python, and Power BI to demonstrate an end-to-e
 
 Note: IKEA Gifting is the business case used for this project. The transaction data comes from the Online Retail II dataset and is not actual IKEA customer data.
 
-Business Objectives
+## Business Objectives
 
-Analyze customer purchasing behaviour and transaction patterns.
+1- Analyze customer purchasing behaviour and transaction patterns.
 
-Segment customers based on Recency, Frequency, and Monetary value (RFM).
+2- Segment customers based on Recency, Frequency, and Monetary value (RFM).
 
-Identify potentially inactive customers using a 90-day inactivity threshold.
+3- Identify potentially inactive customers using a 90-day inactivity threshold.
 
-Understand customer value and purchasing patterns.
+4- Understand customer value and purchasing patterns.
 
-Present customer analytics through an interactive Power BI dashboard.
+5- Present customer analytics through an interactive Power BI dashboard.
 
-Tools & Technologies
+## Tools & Technologies
 
 Tool
 
