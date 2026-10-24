@@ -1,1 +1,114 @@
 # IKEA-RFM-Project-Practice-Project-
+chnologies
+
+Tool
+
+Purpose
+
+MySQL Workbench
+
+Data inspection, cleaning, and transformation
+
+Python
+
+Customer-level analysis and RFM segmentation
+
+Pandas
+
+Data manipulation and analysis
+
+Power BI
+
+Interactive dashboard development
+
+DAX
+
+Analytical measures and calculations
+
+Dataset
+
+The project uses the Online Retail II dataset, covering transactions from December 2009 to December 2011.
+
+The dataset contains more than one million transaction records, including:
+
+Invoice number
+
+Stock code and product description
+
+Quantity purchased
+
+Invoice date
+
+Unit price
+
+Customer ID
+
+Country
+
+These fields provide the foundation for analyzing transaction patterns and customer purchasing behaviour.
+
+Project Workflow
+
+1. Data Loading and SQL Preparation
+
+Loaded two CSV files into MySQL and combined their records into a single raw table. The data was then inspected and prepared for analysis, with attention to data quality and appropriate data types.
+
+2. RFM Analysis Using Python
+
+Used Python and Pandas to analyze customer purchasing behaviour through three metrics:
+
+Recency: The number of days since a customer's most recent purchase.
+
+Frequency: The number of distinct purchase transactions made by a customer.
+
+Monetary: The total monetary value of a customer's purchases.
+
+These metrics provide a structured approach to comparing customers based on their purchasing behaviour.
+
+3. Customer Segmentation
+
+Used RFM analysis to categorize customers according to their purchasing patterns and value.
+
+The segmentation framework includes categories such as Champions, Loyal Customers, At Risk, New Customers, Needs Attention, and Lost Customers.
+
+These categories help organize customer information into groups that can be examined for potential engagement and retention opportunities.
+
+4. Churn Analysis
+
+Used a fixed 90-day inactivity threshold to flag customers who had not purchased within the defined period.
+
+This provides a basis for identifying potentially inactive customers and examining customer retention patterns.
+
+5. Power BI Dashboard
+
+Developed an interactive Power BI dashboard to present the customer analytics in a visual format.
+
+The dashboard brings together relevant customer and transaction metrics to make the analysis easier to explore and interpret.
+
+Key Learnings
+
+Through this project, I gained practical experience in:
+
+Working with a large transactional dataset.
+
+Using SQL for data inspection and preparation.
+
+Applying RFM methodology to customer analytics.
+
+Using Python and Pandas for data manipulation and customer-level analysis.
+
+Developing interactive dashboards in Power BI.
+
+Using analytical results to explore business questions related to customer value and retention.
+
+Conclusion
+
+This project helped me strengthen my understanding of the data analytics workflow, from working with raw transactional data to analyzing customer behaviour and presenting the results through a dashboard.
+
+It also provided an opportunity to connect technical skills with a business problem, focusing on how customer analytics can support more informed decisions around customer value and retention.
+
+Project Status
+
+Completed as part of my continued development in data analytics, SQL, Python, and Power BI.
+
+Author: Aryan Gupta
